@@ -1,0 +1,6 @@
+{
+  "name": "VidTube",
+  "description": "A feature-rich video streaming and playback application inspired by YouTube, complete with search, watch history, liked videos, watch later playlists, and an interactive AI Video Assistant powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
